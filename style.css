@@ -141,23 +141,38 @@ hr {
     font-size: 14px;
 }
 
+.number {
+    margin-bottom: 20px;
+}
+
 .grey {
     color: #5f6368;
-}
-
-/*styling individual result block*/
-.result {
-    width: 600px;
-}
-
-.link {
-    font-size: 18px;
 }
 
 a {
     color: #1a0dab;
 }
 
+p {
+    margin: 0;
+}
+
+/*styling individual result block*/
+.result {
+    width: 600px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+.link {
+    font-size: 18px;
+}
+
+.url {
+    padding-bottom: 10px;
+}
+
 .info {
     color: #4d5156;
+    padding-top: 10px;
 }
