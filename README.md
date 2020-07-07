@@ -5,3 +5,8 @@ haven't coded for a while so hoping to refresh previous knowledge before moving 
 
 I should be able to display writing HTML with ease, and using my current knowledge as well as google searching to write CSS and recreate a close representation of the google search results page.
 REMEMBER: It doesn't have to be perfect !!!
+
+AFTER FINISHING PROJECT
+-refreshed knowledge of CSS, much more comfortable using alternative methods of positioning
+-good at writing out most HTML, just need to remember the less commonly used tags and semantics
+-not getting too hung up on everything being pixel perfect
