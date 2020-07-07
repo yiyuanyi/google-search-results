@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    margin: 0;
 }
 
 a {
@@ -195,4 +196,43 @@ p {
     font-weight: bold;
     padding-right: 20px;
     color: #1a0dab;
+    padding-bottom: 10px;
+}
+
+.pages {
+    margin-left: 350px;
+    margin-bottom: 40px;
+}
+
+.page-no {
+    font-size: 14px;
+    margin-left: 55px;
+}
+
+.page-no a {
+    padding-right: 12px;
+}
+
+.next {
+    margin-left: 38px;
+}
+
+.footer {
+    width: 120%;
+    margin-left: -20px;
+    padding-bottom: 10px;
+    border-top: 1px solid #e4e4e4;
+    background-color: #f2f2f2;
+}
+
+.footer-list {
+    margin-left: 150px;
+}
+
+.f-list {
+    display: inline;
+    color: #5f6368;
+    font-size: 15px;
+    padding-right: 20px;
+    padding-bottom: 20px;
 }
