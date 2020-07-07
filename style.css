@@ -176,3 +176,23 @@ p {
     color: #4d5156;
     padding-top: 10px;
 }
+
+.related-search {
+    margin-left: 180px;
+}
+
+.relate {
+    font-size: 18px;
+}
+
+.r-list {
+    padding-left: 0px;
+    display: inline-block;
+}
+
+.r-item {
+    font-size: 14px;
+    font-weight: bold;
+    padding-right: 20px;
+    color: #1a0dab;
+}
