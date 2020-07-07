@@ -73,39 +73,61 @@ input::placeholder {
     color: #000;
 }
 
+/*set size and position for cross*/
+.cross {
+    width: 25px;
+    position: relative;
+    right: 150px;
+    top: 7px;
+}
+
 /*setting mic icon size and position*/
 .mic {
     width: 15px;
     position: relative;
-    right: 90px;
+    right: 125px;
     top: 6px;
 }
 
 /*set mag. glass icon size and position*/
 .mag {
-    width: 20px;
+    width: 18px;
     position: relative;
-    right: 70px;
+    right: 110px;
     top: 5px;
 }
 
+/*positioning nav bar, setting font size + color*/
+.navbar {
+    margin-top: 30px;
+    margin-left: 140px;
+    font-size: 14px;
+    color: #5f6368;
+}
+
+/*remove bullet points*/
 ul {
     list-style: none;
-    display: inline-block;
-    margin: 0;
-    vertical-align: middle;
 }
 
 .nav-item {
-    display: inline;
+    display: inline-block;
+    margin: 0;
 }
 
-.mid {
-    text-align: center;
+.setting {
+    margin-left: 100px;
 }
 
-.right {
-    text-align: right;
+.safe {
+    float: right;
+    margin-right: 50px;
+}
+
+/*make horizontal line break cover entire width*/
+hr {
+    width: 120%;
+    margin-left: -20px;
 }
 
 .top-result {
